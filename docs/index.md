@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Resume - Keaton Tate
 ---
 # Keaton Tate
