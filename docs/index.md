@@ -17,66 +17,112 @@ title: Resume - Keaton Tate
 `Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Bachelor of Science - Physics
+- Computational Emphasis with a Machine Learning Fundamentals Certificate
 - 3.3 GPA
+- Thesis on Simulating Solid Phase Changes in Dense Lithium
 
+__Lehi High School__, Lehi, UT
 
+- High School Diploma
+  
 ## Related Experience
+
+### Custom Query Report Writer
+
+`August 2018 - Present`
+__Brandow Consulting Corp.__, Consultant
+
+- Creates custom inventory report layouts for Fishbowl Inventory management software used by over 25 clients
+- Programs custom queries to interact with client inventory MySQL databases
+### Teaching Assistant
+
+`October 2022 - December 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- TA for the upper division Classical Mechanics physics course
+- Helped students debug python assignments and final projects
+- Held hours for students to receive help on homework problems
+
+### System Engineer
+
+`March 2017 - December 2019`
+__BYU-Idaho High Altitude Research Team__, Rexburg, ID
+
+- Led tracking and logistics teams on over 20 flights to ensure data and payload retrieval for stratospheric balloon flights
+- Trained over 15 individuals on how to use flight tracking systems to make informed decisions during recovery operations
+- Designed and integrated radio-location systems utilizing the Automatic Packet Reporting System and other third party
+solutions
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2015 - May 2015`
+__BlueLid Technologies, LLC__, Lehi, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Redesigned company website with a mentor to be mobile friendly first
+- Learned Bootstrap, Less, Sass, JavaScript, Gulp.js, and Git
+- Designed mobile games with daughter company Pokey Toad Studios in Unity engine and C#
 
-### Data Science Lead
+## Leadership
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Team Lead
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2020 - April 2020`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+__BYU-Idaho High Altitude Research Team__, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Organized high altitude weather balloon flights including choosing site locations, coordinating launches, organizing travel
+logistics, and approving experimental payloads
+- Educated and empowered individuals curious about hands-on research to accomplish and support meaningful experiments
+weekly
+- Led and managed a team of systems engineers responsible for flight logistics, flight tracking, experiment development,
+payload preparation, safety, outreach and social media, etc.
 
-### Data Science Consulting Team
+### President
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2017 - December 2017`
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+__BYU-Idaho Amateur Radio Society__, Rexburg, ID
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Planned weekly meetings and education presentations on amateur radio concepts
+- Taught members basic circuits and soldering concepts through hands-on kit building
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Sophomore Representative
 
+`January 2014 - May 2014`
 
-## Service and Work History
+__Lehi High School Delta-Theta Math Club__, Lehi, UT
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Planned activities, competitions, and weekly meetings with a club presidency for over 40 students
+- Recruited and helped new sophomore members gain confidence in math skills weekly
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills
+
+### Technical
+
+- Python, C++, C#, Git, Mathematica, Linux, LaTeX, HPC Experience, Structured Problem Solving, Scientific
+Numerical Analysis, Error Propagation Analysis, Microcontroller Programming, Data Visualization, Experiment Design,Packet/Digital Radio Modes, Basic Electronics, Computer-Aided Design (Solidworks), Web Development Technologies
+(Bootstrap, HTML, JavaScript, CSS frameworks and pre-processors, DevOps), Java, SQL, Agile Development
+Methodology, Microsoft Office Suite
+
+### Interpersonal
+
+- Conflict Management/Resolution, Customer Service, Group Documentation Writing, Poster and Professional
+Presentation Sessions with Q&A, Project Management, Tutoring and Mentoring Experience
+
+## Service and Volunteer History
+
+`2018-2019`
+__Service Missionary__, FamilySearch - Lehi, UT
+
+- Educated patrons looking to start genealogy research or overcome research roadblocks
+- Helped patrons digitize slides, photographs, home videos, scrapbooks, and preserve other family history
+
+__Eagle Scout__
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2022 -->
