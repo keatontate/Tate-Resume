@@ -35,6 +35,7 @@ __Brandow Consulting Corp.__, Consultant
 
 - Creates custom inventory report layouts for Fishbowl Inventory management software used by over 25 clients
 - Programs custom queries to interact with client inventory MySQL databases
+
 ### Teaching Assistant
 
 `October 2022 - December 2022`
@@ -101,15 +102,45 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 
 ### Technical
 
-- Python, C++, C#, Git, Mathematica, Linux, LaTeX, HPC Experience, Structured Problem Solving, Scientific
-Numerical Analysis, Error Propagation Analysis, Microcontroller Programming, Data Visualization, Experiment Design,Packet/Digital Radio Modes, Basic Electronics, Computer-Aided Design (Solidworks), Web Development Technologies
-(Bootstrap, HTML, JavaScript, CSS frameworks and pre-processors, DevOps), Java, SQL, Agile Development
-Methodology, Microsoft Office Suite
+- Python
+- C++
+- C#
+- Git
+- Linux (Ubuntu, openSUSE, RHEL)
+- High Performance Computing
+- Bash Scripting and Automation
+- Structured Problem Solving
+- Mathematica
+- LaTeX
+- Numerical Analysis
+- Error Propagation Analysis
+- Microcontroller Programming
+- Data Visualization
+- Experiment Design
+- Packet/Digital Radio Modes
+- Basic Electronics
+- Computer-Aided Design (Solidworks)
+- Web Development Technologies
+- (Bootstrap
+- HTML
+- JavaScript
+- CSS frameworks and pre-processors
+- DevOps)
+- Java
+- SQL
+- Agile Development
+- Methodology
+- Microsoft Office Suite
 
 ### Interpersonal
 
-- Conflict Management/Resolution, Customer Service, Group Documentation Writing, Poster and Professional
-Presentation Sessions with Q&A, Project Management, Tutoring and Mentoring Experience
+- Conflict Management/Resolution
+- Customer Service
+- Group Documentation Writing
+- Technical Writing
+- Poster Sessions and Professional Presentations
+- Project Management
+- Tutoring and Mentoring Experience
 
 ## Service and Volunteer History
 
