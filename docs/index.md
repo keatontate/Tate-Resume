@@ -1,30 +1,23 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Resume - Keaton Tate
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Keaton Tate
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="tate.keaton@protonmail.com">tate.keaton@protonmail.com</a>
+| <a href="https://www.linkedin.com/in/keaton-t/">LinkedIn</a>
+| <a href="https://github.com/keatontate/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.3 GPA
 
 
 ## Related Experience
