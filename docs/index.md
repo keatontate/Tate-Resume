@@ -94,7 +94,7 @@ __BYU-Idaho Amateur Radio Society__, Rexburg, ID
 
 __Lehi High School Delta-Theta Math Club__, Lehi, UT
 
-- Planned activities, competitions, and weekly meetings with a club presidency for over 40 students
+- Ran activities, hosted regional competitions, and attended weekly meetings with a club presidency for over 40 students
 - Recruited and helped new sophomore members gain confidence in math skills weekly
 
 
