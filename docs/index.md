@@ -5,7 +5,7 @@ title: Resume - Keaton Tate
 # Keaton Tate
 
 <div id="webaddress">
-<a href="tate.keaton@protonmail.com">tate.keaton@protonmail.com</a>
+<a href="mailto:tate.keaton@protonmail.com">tate.keaton@protonmail.com</a>
 | <a href="https://www.linkedin.com/in/keaton-t/">LinkedIn</a>
 | <a href="https://github.com/keatontate/">GitHub</a>
 </div>
