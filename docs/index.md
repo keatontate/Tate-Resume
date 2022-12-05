@@ -101,11 +101,15 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 ## Skills
 
 ### Technical
-(Maybe list less skills if it doesn't fit on one page of paper)
+
 - Python
 - C++
 - C#
 - Git
+- Java
+- SQL
+- Web Development Technologies (Bootstrap, HTML, JavaScript, CSS frameworks and pre-processors, DevOps)
+- Agile Development
 - Linux (Ubuntu, openSUSE, RHEL)
 - High Performance Computing
 - Bash Scripting and Automation
@@ -120,16 +124,6 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 - Packet/Digital Radio Modes
 - Basic Electronics
 - Computer-Aided Design (Solidworks)
-- Web Development Technologies
-- (Bootstrap
-- HTML
-- JavaScript
-- CSS frameworks and pre-processors
-- DevOps)
-- Java
-- SQL
-- Agile Development
-- Methodology
 - Microsoft Office Suite
 
 ### Interpersonal
