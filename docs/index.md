@@ -101,7 +101,7 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 ## Skills
 
 ### Technical
-
+(Maybe list less skills if it doesn't fit on one page of paper)
 - Python
 - C++
 - C#
