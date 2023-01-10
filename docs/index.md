@@ -64,7 +64,7 @@ __BlueLid Technologies, LLC__, Lehi, UT
 - Learned Bootstrap, Less, Sass, JavaScript, Gulp.js, and Git
 - Designed mobile games with daughter company Pokey Toad Studios in Unity engine and C#
 
-### Research
+## Research
 
 `April 2022 - December 2022`
 __Simulating Solid Phase Changes in Dense Lithium (Senior Thesis)__, Rexburg, ID
