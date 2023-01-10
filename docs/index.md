@@ -146,6 +146,12 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 
 ## Service and Volunteer History
 
+`2022-2023`
+__Physics drop-in lab Tutor__, BYU-Idaho - Rexburg, ID
+
+- Helped students with lower division class homework
+
+
 `2018-2019`
 __Service Missionary__, FamilySearch - Lehi, UT
 
