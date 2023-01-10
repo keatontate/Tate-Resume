@@ -64,6 +64,14 @@ __BlueLid Technologies, LLC__, Lehi, UT
 - Learned Bootstrap, Less, Sass, JavaScript, Gulp.js, and Git
 - Designed mobile games with daughter company Pokey Toad Studios in Unity engine and C#
 
+### Research
+
+`April 2022 - December 2022`
+__Simulating Solid Phase Changes in Dense Lithium (Senior Thesis)__, Rexburg, ID
+
+- Worked with Drs. Lance Nelson (BYU-Idaho) and Gus Hart (BYU) to simulate phase transition pressures for dense lithium
+- Thesis found [at this link](https://github.com/keatontate/senior-thesis/blob/main/Senior_Thesis___Final.pdf), defended November 2022, accepted December 2022
+
 ## Leadership
 
 ### Team Lead
