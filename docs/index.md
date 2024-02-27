@@ -14,12 +14,12 @@ title: Resume - Keaton Tate
 
 ## Education
 
-`Expected July 2023`
+`July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science - Physics
 - Computational Emphasis with a Machine Learning Fundamentals Certificate
-- 3.3 GPA
+- 3.53 GPA
 - Thesis on Simulating Solid Phase Changes in Dense Lithium
 
 __Lehi High School__, Lehi, UT
@@ -27,6 +27,15 @@ __Lehi High School__, Lehi, UT
 - High School Diploma
   
 ## Related Experience
+
+### Radiological Controls Engineer
+
+`October 2023 - Present`
+__Naval Nuclear Laboratory__, Idaho Falls, ID
+
+- Team worker providing oversight and compliance for radiological work performed at the Naval Reactors Facility
+- Data management, migration of existing databases and tools to online versions
+- Qualified Contamination Worker/Radiation Worker
 
 ### Custom Query Report Writer
 
@@ -136,6 +145,7 @@ __Lehi High School Delta-Theta Math Club__, Lehi, UT
 
 ### Interpersonal
 
+- Oversight and Compliance
 - Conflict Management/Resolution
 - Customer Service
 - Group Documentation Writing
