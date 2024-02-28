@@ -33,6 +33,7 @@ __Lehi High School__, Lehi, UT
 `October 2023 - Present`
 __Naval Nuclear Laboratory__, Idaho Falls, ID
 
+- Department of Energy L clearance
 - Team worker providing oversight and compliance for radiological work performed at the Naval Reactors Facility
 - Data management, migration of existing databases and tools to online versions
 - Qualified Contamination Worker/Radiation Worker
